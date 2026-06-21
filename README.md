@@ -1,2 +1,14 @@
 # ball-zhibo8-notes
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
